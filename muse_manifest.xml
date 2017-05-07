@@ -1,0 +1,395 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KMEA.COM" resolutions="1x" timestamp="1494136236444">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_b-master.css" crc="4019026012" ref="m.tech-courses:study-at-kmea:b.tech-courses:faculty-members:placements:principal:news---events:director:students-club:gallery:college-bus:college-day:canteen:arts-day:hostel:contact:sports:library:jobs-at-kmea:iv:campus-life:downloads:facilities:about:skill-courses:faculty:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="master_a-master.css" crc="3829931986" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="m_tech-courses.css" crc="3811121427" ref="m.tech-courses"/>
+    <file name="study-at-kmea.css" crc="3811121427" ref="study-at-kmea"/>
+    <file name="b_tech-courses.css" crc="3811121427" ref="b.tech-courses"/>
+    <file name="faculty-members.css" crc="3811121427" ref="faculty-members"/>
+    <file name="placements.css" crc="3811121427" ref="placements"/>
+    <file name="principal.css" crc="3811121427" ref="principal"/>
+    <file name="news---events.css" crc="3811121427" ref="news---events"/>
+    <file name="director.css" crc="3811121427" ref="director"/>
+    <file name="students-club.css" crc="3811121427" ref="students-club"/>
+    <file name="gallery.css" crc="3811121427" ref="gallery"/>
+    <file name="college-bus.css" crc="3811121427" ref="college-bus"/>
+    <file name="college-day.css" crc="3811121427" ref="college-day"/>
+    <file name="canteen.css" crc="3811121427" ref="canteen"/>
+    <file name="arts-day.css" crc="3811121427" ref="arts-day"/>
+    <file name="hostel.css" crc="3811121427" ref="hostel"/>
+    <file name="contact.css" crc="4012520101" ref="contact"/>
+    <file name="sports.css" crc="3811121427" ref="sports"/>
+    <file name="library.css" crc="3811121427" ref="library"/>
+    <file name="jobs-at-kmea.css" crc="3811121427" ref="jobs-at-kmea"/>
+    <file name="iv.css" crc="3811121427" ref="iv"/>
+    <file name="campus-life.css" crc="3811121427" ref="campus-life"/>
+    <file name="downloads.css" crc="3811121427" ref="downloads"/>
+    <file name="facilities.css" crc="3811121427" ref="facilities"/>
+    <file name="index.css" crc="4203731142" ref="index"/>
+    <file name="nomq_index.css" crc="3958145718" ref="index"/>
+    <file name="about.css" crc="3811121427" ref="about"/>
+    <file name="skill-courses.css" crc="3811121427" ref="skill-courses"/>
+    <file name="faculty.css" crc="3811121427" ref="faculty"/>
+    <file name="mechanical-engineering.css" crc="3811121427" ref="mechanical-engineering"/>
+    <file name="civil-engineering.css" crc="3811121427" ref="civil-engineering"/>
+    <file name="computer-science-engineering.css" crc="3811121427" ref="computer-science-engineering"/>
+    <file name="electrical---electronics-engineering.css" crc="3811121427" ref="electrical---electronics-engineering"/>
+    <file name="electronics---communication-engineering.css" crc="3811121427" ref="electronics---communication-engineering"/>
+    <file name="electronics---instrumentation-engineering.css" crc="3811121427" ref="electronics---instrumentation-engineering"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="museutils.js" crc="4232573551" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="whatinput.js" crc="86476730" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="webpro.js" crc="3770351119" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:news---events"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering"/>
+    <file name="form_check.php" crc="3841221102" ref="contact"/>
+    <file name="form_throttle.php" crc="4048049783" ref="contact"/>
+    <file name="form_process.php" crc="3899230280" ref="contact"/>
+    <file name="form-u18513.php" crc="314575329" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="white.png" crc="3781793574" seo="true" ref="index:news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering">
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="b.tech-courses" alt=""/>
+      <caption webpage="mechanical" alt=""/>
+      <caption webpage="skill-courses" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="faculty-members" alt=""/>
+      <caption webpage="electrical---electronics-engineering" alt=""/>
+      <caption webpage="college-day" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="placements" alt=""/>
+      <caption webpage="electronics---instrumentation-engineering" alt=""/>
+      <caption webpage="sports" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="mechanical-engineering" alt=""/>
+      <caption webpage="electronics---instrumentation" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="jobs-at-kmea" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="director" alt=""/>
+      <caption webpage="arts-day" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="college-bus" alt=""/>
+      <caption webpage="electronics---communication" alt=""/>
+      <caption webpage="civil-engineering" alt=""/>
+      <caption webpage="students-club" alt=""/>
+      <caption webpage="computer-science-engineering" alt=""/>
+      <caption webpage="iv" alt=""/>
+      <caption webpage="principal" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="study-at-kmea" alt=""/>
+      <caption webpage="electrical---electronics" alt=""/>
+      <caption webpage="campus-life" alt=""/>
+      <caption webpage="electronics---communication-engineering" alt=""/>
+      <caption webpage="m.tech-courses" alt=""/>
+      <caption webpage="canteen" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:news---events">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+    </file>
+    <file name="arrowmenuright.png" crc="41086373" ref="index:news---events">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+    </file>
+    <file name="pg.jpg" crc="479613575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="psta.jpg" crc="3928133887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="students-u1205-fr.png" crc="4073283104" ref="index"/>
+    <file name="22-41-12-asap-_logo_900x900.jpg" crc="80479652" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22-42-46-59516wtzupcitywkochikapricious17collegefesteventkochicochinkmeaengineeringcollege.jpg" crc="209949024" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="22-11-38-2000px-f_iconsvg.png" crc="3811546870" ref="index:news---events">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+    </file>
+    <file name="22-12-54-google-plus-new-icon-logo-400x400.jpg" crc="3883216297" ref="index:news---events">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+    </file>
+    <file name="22-13-35-twitter-icon.png" crc="284583021" ref="index:news---events">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="news---events" alt=""/>
+    </file>
+    <file name="students-u1205-fr2.png" crc="4265913769" ref="index"/>
+    <file name="students-u1205-fr3.png" crc="3913778179" ref="index"/>
+    <file name="students-u1205-fr4.png" crc="177745033" ref="index"/>
+    <file name="students-u1205-fr5.png" crc="171000895" ref="index"/>
+    <file name="20-52-26-site_under_maintenance.jpg" crc="3861933343" seo="true" ref="news---events:study-at-kmea:faculty:facilities:campus-life:library:hostel:canteen:college-bus:director:principal:faculty-members:b.tech-courses:m.tech-courses:skill-courses:iv:sports:arts-day:college-day:gallery:placements:about:downloads:jobs-at-kmea:contact:students-club:mechanical-engineering:civil-engineering:computer-science-engineering:electrical---electronics-engineering:electronics---communication-engineering:electronics---instrumentation-engineering">
+      <caption webpage="b.tech-courses" alt=""/>
+      <caption webpage="electrical---electronics" alt=""/>
+      <caption webpage="principal" alt=""/>
+      <caption webpage="m.tech-courses" alt=""/>
+      <caption webpage="canteen" alt=""/>
+      <caption webpage="electrical---electronics-engineering" alt=""/>
+      <caption webpage="college-day" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="placements" alt=""/>
+      <caption webpage="computer-science" alt=""/>
+      <caption webpage="electronics---instrumentation-engineering" alt=""/>
+      <caption webpage="sports" alt=""/>
+      <caption webpage="downloads" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="hostel" alt=""/>
+      <caption webpage="arts-day" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="jobs-at-kmea" alt=""/>
+      <caption webpage="mechanical-engineering" alt=""/>
+      <caption webpage="electronics---communication-engineering" alt=""/>
+      <caption webpage="director" alt=""/>
+      <caption webpage="mechanical" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="college-bus" alt=""/>
+      <caption webpage="civil-engineering" alt=""/>
+      <caption webpage="students-club" alt=""/>
+      <caption webpage="computer-science-engineering" alt=""/>
+      <caption webpage="iv" alt=""/>
+      <caption webpage="electronics---instrumentation" alt=""/>
+      <caption webpage="skill-courses" alt=""/>
+      <caption webpage="news---events" alt=""/>
+      <caption webpage="study-at-kmea" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="campus-life" alt=""/>
+      <caption webpage="facilities" alt=""/>
+      <caption webpage="electronics---communication" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="faculty-members" alt=""/>
+    </file>
+    <file name="mechbutton-layer 2.png" crc="3966769958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mechbutton.png" crc="4061485791" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csbutton-layer 1.png" crc="4009306500" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="csbutton.png" crc="4073015139" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="civilbutton-electrical - electronics engineering.png" crc="4114597081" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="civilbutton.png" crc="271328905" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eeebutton-layer 4.png" crc="43869991" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eeebutton.png" crc="509351949" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eibutton-civil engineering.png" crc="483082975" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eibutton.png" crc="221464139" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ecbutton-layer 3.png" crc="146272629" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ecbutton.png" crc="426806229" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4241720329" seo="true" mt="1494136089151" redirect="true"/>
+  <file name="news---events.html" crc="34234695" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="study-at-kmea.html" crc="4048243420" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="faculty.html" crc="153496387" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="facilities.html" crc="465978766" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="campus-life.html" crc="4177623236" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="library.html" crc="135686332" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="hostel.html" crc="131576080" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="canteen.html" crc="4134486029" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="college-bus.html" crc="265239769" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="director.html" crc="4085789888" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="principal.html" crc="3760416669" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="faculty-members.html" crc="392268035" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="b.tech-courses.html" crc="4176941522" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="m.tech-courses.html" crc="4254160368" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="skill-courses.html" crc="176889984" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="iv.html" crc="4180221937" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="sports.html" crc="53141251" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="arts-day.html" crc="4172384299" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="college-day.html" crc="4104644205" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="gallery.html" crc="183927260" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="placements.html" crc="368344633" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="about.html" crc="4138433144" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="downloads.html" crc="3904161295" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="jobs-at-kmea.html" crc="312452141" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="contact.html" crc="298232452" seo="true" mt="1494117746661" redirect="true"/>
+  <file name="students-club.html" crc="4102753997" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="mechanical-engineering.html" crc="381448454" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="civil-engineering.html" crc="86429790" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="computer-science-engineering.html" crc="227057700" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="electrical---electronics-engineering.html" crc="3855947748" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="electronics---communication-engineering.html" crc="4099827154" seo="true" mt="1494117654287" redirect="true"/>
+  <file name="electronics---instrumentation-engineering.html" crc="76714751" seo="true" mt="1494117654287" redirect="true"/>
+</manifest>
